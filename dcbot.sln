@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dcbot", "dcbot\dcbot.pyproj", "{A990E1A5-F852-40E7-9C27-C7C48AA78F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A990E1A5-F852-40E7-9C27-C7C48AA78F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A990E1A5-F852-40E7-9C27-C7C48AA78F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06EC93F1-4056-4C4D-A3C7-C9EBAAF6EA92}
+	EndGlobalSection
+EndGlobal
